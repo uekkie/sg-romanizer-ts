@@ -1,0 +1,1 @@
+https://github.com/SonicGarden/sg-romanizer のTypeScript版です。
